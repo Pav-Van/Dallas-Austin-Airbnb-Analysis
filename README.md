@@ -1,3 +1,12 @@
+### Table of Contents
+
+1. [Installation](https://github.com/Pav-Van/Dallas-Austin-Airbnb-Analysis/edit/main/README.md#installation)
+2. [Project Motivation](https://github.com/Pav-Van/Dallas-Austin-Airbnb-Analysis/edit/main/README.md#project-motivation)
+3. [File Descriptions](https://github.com/Pav-Van/Dallas-Austin-Airbnb-Analysis/edit/main/README.md#file-descriptions)
+4. [Results](https://github.com/Pav-Van/Dallas-Austin-Airbnb-Analysis/edit/main/README.md#results)
+5. [Licensing, Authors, Acknowledgements](https://github.com/Pav-Van/Dallas-Austin-Airbnb-Analysis/edit/main/README.md#licensing-authors-acknowledgements)
+
+
 ## Installation
  
 The Anaconda distribution of Python is needed to run the code, no additional libraries are needed. The notebook uses python 3.8.5.
