@@ -27,7 +27,7 @@ All the code is contained in one jupyter notebook. The other files are .csv file
 
 ## Results
 
-The insights gained from the code can be found on this [post](https://medium.com/@Philip_Van/dallas-vs-austin-airbnbs-can-you-predict-the-prices-7c352a58d42)
+The insights gained from the code can be found on this [post](https://medium.com/@Philip_Van/dallas-vs-austin-airbnbs-can-you-predict-the-prices-7c352a58d42).
 
 ## Licensing, Authors, Acknowledgements
 
